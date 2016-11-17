@@ -1,3 +1,3 @@
-var newChange = "This is the new change";
+var newChange = "This is the new newChange";
 
 console.log(newChange);
